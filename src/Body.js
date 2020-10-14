@@ -17,7 +17,7 @@ function Body(props) {
                         </div>
                     </div>
                     <div className="col-3">
-                        <h5>This is the other Part of the row</h5>
+                        <h5>This is the other Part of the row, ok</h5>
                     </div>
                 </div>
             </div>
